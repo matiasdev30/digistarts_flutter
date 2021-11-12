@@ -42,6 +42,7 @@ I use GetX to state management and to intercept requests:
 ## Creators
 
 **Matias Fernando**
+<br/>
 **Fernanda Pires**
 
 - <https://github.com/matiasdev30>

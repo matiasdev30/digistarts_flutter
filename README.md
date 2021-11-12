@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://flutter.io/">
     <img src="https://static.wixstatic.com/media/258dca_61d0daa31d3c438f84960e8e3fd7dfdf~mv2.png/v1/crop/x_126,y_524,w_948,h_152/fill/w_218,h_34,al_c,q_85,usm_0.66_1.00_0.01/instagram-post02.webp" alt="Logo" >
   </a>
 

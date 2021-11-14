@@ -18,7 +18,7 @@ class HomeController extends GetxController {
   void runFilter(String enteredKeyword) {
     List<CityModel> results = [];
     if (enteredKeyword.isEmpty) {
-      // if the search field is empty or only contains white-space, we'll display all users
+      // if the search field is empty or only contains white-space, we'll display all citys 
       results = citys;
     } else {
       results = citys
